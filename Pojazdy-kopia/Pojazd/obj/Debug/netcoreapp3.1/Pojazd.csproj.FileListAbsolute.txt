@@ -1,0 +1,13 @@
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/bin/Debug/netcoreapp3.1/Pojazd.deps.json
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/bin/Debug/netcoreapp3.1/Pojazd.runtimeconfig.json
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/bin/Debug/netcoreapp3.1/Pojazd.runtimeconfig.dev.json
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/bin/Debug/netcoreapp3.1/Pojazd.dll
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/bin/Debug/netcoreapp3.1/Pojazd.pdb
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/obj/Debug/netcoreapp3.1/Pojazd.csproj.AssemblyReference.cache
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/obj/Debug/netcoreapp3.1/Pojazd.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/obj/Debug/netcoreapp3.1/Pojazd.AssemblyInfoInputs.cache
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/obj/Debug/netcoreapp3.1/Pojazd.AssemblyInfo.cs
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/obj/Debug/netcoreapp3.1/Pojazd.csproj.CoreCompileInputs.cache
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/obj/Debug/netcoreapp3.1/Pojazd.dll
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/obj/Debug/netcoreapp3.1/Pojazd.pdb
+/Users/mareczek131/Projects/Pojazdy-kopia/Pojazd/obj/Debug/netcoreapp3.1/Pojazd.genruntimeconfig.cache
