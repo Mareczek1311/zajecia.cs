@@ -1,0 +1,13 @@
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/obj/Debug/netcoreapp3.1/LapanieWyjatkow.csproj.AssemblyReference.cache
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/obj/Debug/netcoreapp3.1/LapanieWyjatkow.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/obj/Debug/netcoreapp3.1/LapanieWyjatkow.AssemblyInfoInputs.cache
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/obj/Debug/netcoreapp3.1/LapanieWyjatkow.AssemblyInfo.cs
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/obj/Debug/netcoreapp3.1/LapanieWyjatkow.csproj.CoreCompileInputs.cache
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/bin/Debug/netcoreapp3.1/LapanieWyjatkow.deps.json
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/bin/Debug/netcoreapp3.1/LapanieWyjatkow.runtimeconfig.json
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/bin/Debug/netcoreapp3.1/LapanieWyjatkow.runtimeconfig.dev.json
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/bin/Debug/netcoreapp3.1/LapanieWyjatkow.dll
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/bin/Debug/netcoreapp3.1/LapanieWyjatkow.pdb
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/obj/Debug/netcoreapp3.1/LapanieWyjatkow.dll
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/obj/Debug/netcoreapp3.1/LapanieWyjatkow.pdb
+/Users/mareczek131/Projects/LapanieWyjatkow/LapanieWyjatkow/obj/Debug/netcoreapp3.1/LapanieWyjatkow.genruntimeconfig.cache

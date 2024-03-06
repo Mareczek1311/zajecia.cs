@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{A941AD3C-18BE-4A6C-8745-24F5F915E689}|Default">
+  <MonoDevelop.Ide.ItemProperties.LapanieWyjatkow PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="LapanieWyjatkow/Program.cs">
+    <Files>
+      <File FileName="LapanieWyjatkow/Program.cs" Line="63" Column="50" />
+      <File FileName="LapanieWyjatkow/LapanieWyjatkow.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LapanieWyjatkow" expanded="True">
+            <Node name="LapanieWyjatkow" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
